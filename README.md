@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -37,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
