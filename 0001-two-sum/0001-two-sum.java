@@ -3,7 +3,6 @@ class Solution {
         Map<Integer, Integer> map = new HashMap<>();
         for(int i = 0;i<nums.length; i++){
             int remaining = target - nums[i];
-            System.out.println("remaining" + remaining);
             if(map.containsKey(remaining)){
                 return new int[]{map.get(remaining), i};
             }
