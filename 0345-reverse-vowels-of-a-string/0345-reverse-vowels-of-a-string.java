@@ -16,15 +16,15 @@ class Solution {
             char chl = chars[left];
             char chr = chars[right];
 
-            if(isVowel(chl) == true && isVowel(chr) == true){
+            if(isVowel(chl) && isVowel(chr)){
                 char temp = chl;
                 chars[left] = chars[right];
                 chars[right] = chl;
                 left++;
                 right--;
-            }else if(isVowel(chl) == true && isVowel(chr) == false){
+            }else if(isVowel(chl) && !isVowel(chr)){
                 right--;
-            }else if(isVowel(chl) == false && isVowel(chr) == true){
+            }else if(!isVowel(chl) && isVowel(chr)){
                 left++;
             }else{
                 left++;
