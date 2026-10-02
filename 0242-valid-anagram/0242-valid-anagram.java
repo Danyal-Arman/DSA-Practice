@@ -16,6 +16,6 @@ class Solution {
             map.remove(cht);
         }
       } 
-       return map.size() == 0 ? true : false;
+       return map.isEmpty();
     } 
 }
