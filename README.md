@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Danyal-Arman/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
