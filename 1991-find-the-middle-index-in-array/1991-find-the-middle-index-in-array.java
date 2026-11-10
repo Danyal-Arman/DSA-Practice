@@ -6,13 +6,12 @@ class Solution {
             prefixSum += nums[i];
         }
             int leftSum = 0; 
-            int rightSum = 0;
         for(int j = 0; j < nums.length; j++){
 
             if(j > 0){
             leftSum += nums[j - 1];
             }
-            rightSum = prefixSum - leftSum - nums[j];
+            int rightSum = prefixSum - leftSum - nums[j];
 
             if(leftSum == rightSum) {
                 return j;
