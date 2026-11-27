@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Danyal-Arman/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Danyal-Arman/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
